@@ -1,0 +1,22 @@
+{
+  "name": "Encuentros Nahual",
+  "version": "0.1",
+  "homepage": "http://encuentros.nahual.uy",
+  "authors": [
+    "Nahual UY"
+  ],
+  "description": "Portada para encuentros Nahual UY",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
