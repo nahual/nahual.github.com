@@ -4,6 +4,8 @@
 title: ""
 layout: home
 ---
+![icono]({{ "/assets/proyecto-nahual.png" | absolute_url }})
+
 # Ejercicios de QC
 	
   * **[Celfar][celfar]**: conversor de grados Celcius a Farenheit.
