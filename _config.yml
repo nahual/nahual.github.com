@@ -16,10 +16,9 @@
 title: Nahual
 email: sumate@nahual.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nahual es un proyecto social en donde se enseña testing manual
-  de software como salida laboral. Queremos darle a aquellas personas
-  que realmente lo necesitan, una herramienta más. El sitio contiene
-  información útil, ejercicios, y noticias.
+  Nahual es un proyecto social que desde 2006 busca compartir e impartir
+  conocimientos de forma gratuita, conectarse con diferentes comunidades
+  y colaborar con ellas con el fin de ayudar en lo que necesiten. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PNahual
