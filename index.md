@@ -4,7 +4,7 @@
 title: ""
 layout: home
 ---
-![icono]({{ "/assets/proyecto-nahual.png" | absolute_url }})
+![icono]({{ "/assets/aborto-legal.jpg" | absolute_url }})
 
 # Ejercicios de QC
 	
