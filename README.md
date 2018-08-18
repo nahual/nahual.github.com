@@ -6,7 +6,8 @@ de generar una salida laboral.
 [Acá](https://github.com/nahual) guardamos gran parte del material que usamos para dar las clases. 
 Si querés darnos una mano, estás más que invitada. Hacenos PRs o ponete en contacto con cualquier miembro.
 
-Este es el repositorio de la [página web](https://nahual.github.io). Donde vive todo el contenido a partir del cual se genera.
+Este es el repositorio de la [página web](https://nahual.github.io). Es decir, donde vive todo el contenido 
+a partir del cual se genera.
 Si querés participar de su edición, abajo hay algunas pautas. 
 Si lo lees y no queda claro, avisanos así nos ayudás a que quien quiera contribuir pueda hacerlo con las menores barreras.
 
