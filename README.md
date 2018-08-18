@@ -6,7 +6,11 @@ de generar una salida laboral.
 [Acá](https://github.com/nahual) guardamos gran parte del material que usamos para dar las clases. 
 Si querés darnos una mano, estás más que invitada. Hacenos PRs o ponete en contacto con cualquier miembro.
 
-### Cómo funciona la página?
+Este es el repositorio de la [página web](https://nahual.github.io). Donde vive todo el contenido a partir del cual se genera.
+Si querés participar de su edición, abajo hay algunas pautas. 
+Si lo lees y no queda claro, avisanos así nos ayudás a que quien quiera contribuir pueda hacerlo con las menores barreras.
+
+### Cómo funciona?
 A grandes rasgos es maaasomenos así:
 - tenemos todo nuestro material en repositorios de Github. 
   Por ejemplo, el de "El Provinciano" está [acá](https://github.com/nahual/qc-provinciano)
@@ -18,7 +22,7 @@ A grandes rasgos es maaasomenos así:
     Vos le pasás un archivo escrito en formato HTML o Markdown y Jekyll lo transforma a HTML agregándole 
     un montón de cosas que lo hacen ver como un sitio web.
 
-### Querés editar la página?
+### Querés editarla?
 #### Editando un archivo existente
 - abrilo desde el navegador de archivos de Github y hacé click en el botón de "editar":
   ![edit-img](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
