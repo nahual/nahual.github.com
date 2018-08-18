@@ -1,4 +1,4 @@
-# nahual.github.com
+![nahual-img](assets/proyecto-nahual.png)
 
 Buenas! Somos Nahual, un proyecto social que se dedica, entre otras cosas, a enseñar testing manual con el objetivo
 de generar una salida laboral.
