@@ -26,9 +26,10 @@ layout: home
   * [Carrito][carrito]: app web, carrito de compras hecho por los genios del Uruguay: [Especificaciones][carrito-specs] - Versiones: [V2][carrito-v2]
 
 # Links Utiles
-  * [Manual de Testing Nahual]({{ "assets/Nahual Argentina.docx.pdf" | absolute_url }})
-  * [Testing de ABM(C)](https://sites.google.com/site/nahualtandil/contenidos/testing-de-abm-o-crud): cosas a tener en cuenta cuando testeamos una aplicación del tipo ABMC (o CRUD).
-  * [SQL Comandos Básicos](https://mariadb.com/kb/es/basic-sql-statements/): ejemplos de instrucciones para interactuar con una base de datos SQL. Podés probarlos en [W3Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)!
+  * **[Manual de Testing Nahual]({{ "assets/Nahual Argentina.docx.pdf" | absolute_url }})**
+  * **[Testing de ABM(C)](https://sites.google.com/site/nahualtandil/contenidos/testing-de-abm-o-crud)**: cosas a tener en cuenta cuando testeamos una aplicación del tipo ABMC (o CRUD).
+  * **Agile**: mirá los [12 principios ágiles](https://www.youtube.com/watch?v=V5LaKpjcgKQ), y también qué es [SCRUM](https://www.youtube.com/watch?v=YhGaUh8R7II).
+  * **Bases de Datos**: [referencia](https://mariadb.com/kb/es/basic-sql-statements/) de qué comandos existen y cómo escribirlos para interactuar con una base de datos SQL. Podés probarlos en [W3Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)!
 
 
 [celfar]: https://github.com/nahual/qc-celfar
