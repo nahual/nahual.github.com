@@ -65,7 +65,7 @@ layout: home
 [provinciano-e-v4]: https://nahual.github.io/qc-provinciano-evolution/provinciano.html
 
 [provinciano-backend]: https://github.com/sanadora/qc-provinciano-backend
-[provinciano-backend-specs]:  https://sanadora.github.io/qc-provinciano-backend/especificaciones.html
+[provinciano-backend-specs]:  https://sanadora.github.io/qc-provinciano-backend/index
 [provinciano-backend-v1]: https://sanadora.github.io/qc-provinciano-backend/index-v1.html
 [provinciano-backend-v2]:  https://sanadora.github.io/qc-provinciano-backend/index-v2.html
 
