@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nahual
-email: sumate@nahual.com
+email: sumate@nahual.com.ar
 description: >- # this means to ignore newlines until "baseurl:"
   Nahual es un proyecto social que desde 2006 busca compartir e impartir
   conocimientos de forma gratuita, conectarse con diferentes comunidades
